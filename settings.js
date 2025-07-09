@@ -33,14 +33,14 @@ if (__filename.includes('node_modules') === false) {
 // ⚡ ULTRA PRO MAX SETTINGS
 const settings = {
   // 🌟 Branding & Identity
-  botName: "Arslan-MD ULTRA PRO MAX",
-  packname: "Arslan-MD Premium Pack",
-  author: "ArslanMD Official",
+  botName: "🌹≛⃝♕︎𝐑𝐀𝐘✮⃝𝐁𝐋𝐎𝐎𝐃",
+  packname: "🌹≛⃝♕︎𝐑𝐀𝐘✮⃝𝐁𝐋𝐎𝐎𝐃",
+  author: "🌹≛⃝♕︎𝐑𝐀𝐘✮⃝𝐁𝐋𝐎𝐎𝐃",
   version: "3.0.0", // Major version upgrade
   
   // 👑 Ownership
-  botOwner: "ArslanMD",
-  ownerNumber: "923237045919",
+  botOwner: "🌹≛⃝♕︎𝐑𝐀𝐘✮⃝𝐁𝐋𝐎𝐎𝐃",
+  ownerNumber: "243843120936",
   coOwners: [], // Add secondary owners if needed
   
   // ⚙️ Operation Modes
